@@ -12,8 +12,8 @@ on:
 #   AZURE_RESOURCE_GROUP 
 #   STORAGE_ACCOUNT 
 env:
-  AZURE_RESOURCE_GROUP: OH-Demo-RG  #set this to your resource group name 
-  STORAGE_ACCOUNT: OH-Demo-SA           #set this to your storage-account-name
+  AZURE_RESOURCE_GROUP: GH-Demo-RG  #set this to your resource group name 
+  STORAGE_ACCOUNT: githubactionsdemo   #set this to your storage-account-name
     
 jobs:
   deployment:
