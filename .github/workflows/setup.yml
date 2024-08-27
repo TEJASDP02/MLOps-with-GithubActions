@@ -3,7 +3,7 @@ name: Infra Deployment and Training
 on:
   push:
     paths: 
-      - '.github/workflows/setup.yml'
+      - '.github/workflows/setup.yml' 
  
  
 # CONFIGURATION 
